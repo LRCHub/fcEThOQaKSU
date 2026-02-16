@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "I Don't Suit You",
+  "base_artist": "Uru",
+  "createdAt": "2026-02-16T12:50:55.760858Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I don’t suit you",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/01_I_don’t_suit_you_Uru.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I don't suit you (Produced by AmPm)",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/02_I_don't_suit_you_(Produced_by_AmPm)_Uru.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I don’t suit you",
+      "artist": "Uru Produced by AmPm",
+      "has_synced": true,
+      "path": "select/03_I_don’t_suit_you_Uru_Produced_by_AmPm.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Don’t Suit Hats",
+      "artist": "Yxngxr1",
+      "has_synced": true,
+      "path": "select/04_I_Don’t_Suit_Hats_Yxngxr1.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I don't suit you (Produced by AmPm)",
+      "artist": "Uru",
+      "has_synced": false,
+      "path": "select/pl_01_I_don't_suit_you_(Produced_by_AmPm)_Uru.txt"
+    }
+  ]
+}
